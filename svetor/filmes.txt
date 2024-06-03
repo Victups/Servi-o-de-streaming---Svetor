@@ -1,0 +1,4 @@
+(nome = Matrix, anoDeLancamento = 1993, duração = 60)
+(nome = Spider Man: Lost Cause, anoDeLancamento = 2014, duração = 14)
+(nome = O Gato de Botas Extraterrestre, anoDeLancamento = 1990, duração = 85)
+(nome = Dogville, anoDeLancamento = 2003, duração = 17)

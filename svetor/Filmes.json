@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Matrix",
+    "anoDeLancamento": 1993,
+    "incluidoNoPlano": false,
+    "somaDasAvaliacoes": 0.0,
+    "totalDeAvaliacoes": 0,
+    "duracaoEmMinutos": 60,
+    "classificacaoIndicativa": 0
+  },
+  {
+    "nome": "Spider Man: Lost Cause",
+    "anoDeLancamento": 2014,
+    "incluidoNoPlano": false,
+    "somaDasAvaliacoes": 0.0,
+    "totalDeAvaliacoes": 0,
+    "duracaoEmMinutos": 14,
+    "classificacaoIndicativa": 0
+  },
+  {
+    "nome": "O Gato de Botas Extraterrestre",
+    "anoDeLancamento": 1990,
+    "incluidoNoPlano": false,
+    "somaDasAvaliacoes": 0.0,
+    "totalDeAvaliacoes": 0,
+    "duracaoEmMinutos": 85,
+    "classificacaoIndicativa": 0
+  },
+  {
+    "nome": "Dogville",
+    "anoDeLancamento": 2003,
+    "incluidoNoPlano": false,
+    "somaDasAvaliacoes": 0.0,
+    "totalDeAvaliacoes": 0,
+    "duracaoEmMinutos": 17,
+    "classificacaoIndicativa": 0
+  }
+]
