@@ -28,7 +28,7 @@ public class BuscaFilmes {
 
     public Titulo buscarFilme(String busca) throws IOException, InterruptedException, ErrorDeConversaoDeAnoExecption {
         String buscaCodec = URLEncoder.encode(busca, StandardCharsets.UTF_8);
-        String endereco = "https://www.omdbapi.com/?t=" + buscaCodec + "&apikey=e18ad14b";
+        String endereco = "https://www.omdbapi.com/?t=" + buscaCodec + "You_Key_Here";
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
